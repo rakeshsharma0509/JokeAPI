@@ -4,4 +4,4 @@ Check it Out !!
 To run
 
 change directory
-nodemon solution.js
+nodemon index.js
